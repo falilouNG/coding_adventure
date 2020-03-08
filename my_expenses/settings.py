@@ -13,7 +13,7 @@ SECRET_KEY = '7gcc+z&7daawbvs=&a5%shyigt*q(jnulid(b1+tjmxvpplh12'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [ '127.0.0.1', 'coding-adventure.herokuapp.com',]
+ALLOWED_HOSTS = [ '127.0.0.1', ''polar-depths-32157.herokuapp.com',]
 
 
 # Application definition
